@@ -13,6 +13,7 @@ Python libraries: requests, pandas, wordcloud, matplotlib, urllib, Pillow, numpy
 
 ### Installing
 
+* Create a Reddit Application to get the authorization required to interact with the Reddit API. You can follow this guide linked [here](https://towardsdatascience.com/how-to-use-the-reddit-api-in-python-5e05ddfd1e5c).
 * Set your **CLIENT_ID**, **SECRET_KEY**, account **username**, and account **password** in the auth() function 
 
 ### Executing program
