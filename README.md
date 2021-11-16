@@ -26,6 +26,6 @@ Example:
 Enter reddit post link: https://www.reddit.com/r/Python/comments/qt3x3w/advanced_visual_studio_code_for_python_developers/
 ```
 
-### Example Output
+## Example Output
 ![Rectanglar_Cloud](https://i.imgur.com/aCQocel.png)
 ![Header_Img_Cloud](https://i.imgur.com/L08QzdW.png)
